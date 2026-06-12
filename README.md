@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/parulahlawat">
-    <img src="https://komarev.com/ghpvc/?username=parulahlawat&label=Profile%20views&color=6e40c9&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -74,15 +73,6 @@ Built recruiter dashboards, real-time application tracking, and secure one-to-on
 `C` `fork()` `execvp()` `Piping` `I/O Redirection`  
 
 Supports built-in and external commands, piping, I/O redirection, and multi-line commands using raw system calls.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parulahlawat&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulahlawat&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
