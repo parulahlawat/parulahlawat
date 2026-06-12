@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Parul Ahlawat 👋</h1>
 
 <p align="center">
@@ -16,7 +17,7 @@
 ## 🧠 About Me
 
 - 🎓 **MTech Computer Science** — IIIT Delhi (2024–2026)
-- 🔍 Interested in: Systems Programming, Secure Fullstack, SDE
+- 🔍 Interested in: Systems Programming, Secure Fullstack, SDE, AI/ML 
 - 📍 India
 
 ---
@@ -33,7 +34,7 @@
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -52,7 +53,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔒 [SecureConnect — Job Search & Networking Platform](https://github.com/parulahlawat/Secure_Job_Platform)
+### 🔗 [SympLinker](https://github.com/parulahlawat/SympLinker)
+> Automated symptom aggregator and diagnosis tool   
+`Python` `NLP` `PyTorch` `BERT` `Semantic Search`
+
+Extracts and links patient symptoms from unstructured clinical notes using deep learning to accelerate diagnosis.
+
+---
+
+### 🔒 [SecureConnect — Job Search & Networking Platform](https://github.com/parulahlawat/Secure_Job_Platform) 
 > Full-stack secure job portal with per-user encryption  
 `FastAPI` `React` `PostgreSQL` `TLS/HTTPS` `E2E Messaging`
 
@@ -62,7 +71,7 @@ Built recruiter dashboards, real-time application tracking, and secure one-to-on
 
 ### 🐚 [Custom Linux Shell](https://github.com/parulahlawat/Linux_Shell)
 > UNIX shell from scratch in C  
-`C` `fork()` `execvp()` `Piping` `I/O Redirection`
+`C` `fork()` `execvp()` `Piping` `I/O Redirection`  
 
 Supports built-in and external commands, piping, I/O redirection, and multi-line commands using raw system calls.
 
